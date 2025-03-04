@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChainShot</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">დაამატეთ ვიჯეტი</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="welcome_to_chainshot">მოგესალმებით ChainShot-ზე</string>
+    <string name="sign_in_with_your_google_account">შედით google-ის ანგარიშით</string>
+    <string name="enter_your_email">შეიყვანეთ მეილი</string>
+    <string name="sign_in">შესვლა</string>
+    <string name="friend_requests">დამეგობრობის მოთხოვნები</string>
+    <string name="friends">მეგობრები</string>
+    <string name="requests">მოთხოვნები</string>
+    <string name="take_photo">გადაიღეთ ფოტო</string>
+    <string name="sign_out">გასვლა</string>
+    <string name="decline">უარყოფა</string>
+    <string name="accept">დადასტურება</string>
+</resources>

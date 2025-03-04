@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "419417604641",
+    "project_id": "photo-chain",
+    "storage_bucket": "photo-chain.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:419417604641:android:dd6d037a21e1f9738b5960",
+        "android_client_info": {
+          "package_name": "com.example.photochainapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "419417604641-h1ua5gk41dhvq34ag1cqb7p8rldtsce2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.photochainapp",
+            "certificate_hash": "da1bf05697be1b5ec31a93a2baf81d18865676d6"
+          }
+        },
+        {
+          "client_id": "419417604641-tfm66vrf0tmfis1hav7ut7cr54gao34n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDDPcxx5DpGx77ru-mtdUWUo4HUEGEja-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "419417604641-tfm66vrf0tmfis1hav7ut7cr54gao34n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

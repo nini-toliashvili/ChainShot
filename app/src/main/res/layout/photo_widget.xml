@@ -1,0 +1,22 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+
+    android:layout_width="150dp"
+    android:layout_height="150dp"
+    android:theme="@style/Theme.PhotoChainApp.AppWidgetContainer">
+
+    <ImageView
+        android:id="@+id/appwidget_image"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_margin="0dp"
+        android:src="@color/white"
+        android:clipToOutline="true"
+        android:scaleType="centerCrop"
+        android:theme="@style/Theme.PhotoChainApp.AppWidgetContainer"
+        android:contentDescription="@string/appwidget_text"
+        android:text="@string/appwidget_text"
+        android:textSize="24sp"
+        android:textStyle="bold|italic" />
+</FrameLayout>

@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChainShot</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="app_widget_description">This is an app widget description</string>
+    <string name="welcome_to_chainshot">Welcome to ChainShot</string>
+    <string name="sign_in_with_your_google_account">sign in with your google account</string>
+    <string name="enter_your_email">enter your email</string>
+    <string name="sign_in">Sign In</string>
+    <string name="friend_requests">Friend Requests</string>
+    <string name="friends">Friends</string>
+    <string name="requests">requests</string>
+    <string name="take_photo">Take Photo</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="decline">decline</string>
+    <string name="accept">accept</string>
+</resources>
+
